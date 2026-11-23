@@ -1,0 +1,5 @@
+E:/proj gra/New folder/Two_Qt_CPP_Projects/SnakeGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/SnakeGame.dir
+E:/proj gra/New folder/Two_Qt_CPP_Projects/SnakeGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/proj gra/New folder/Two_Qt_CPP_Projects/SnakeGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/proj gra/New folder/Two_Qt_CPP_Projects/SnakeGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/SnakeGame_autogen_timestamp_deps.dir
+E:/proj gra/New folder/Two_Qt_CPP_Projects/SnakeGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/SnakeGame_autogen.dir

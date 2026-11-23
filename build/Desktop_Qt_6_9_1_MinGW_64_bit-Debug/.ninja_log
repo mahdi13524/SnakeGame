@@ -1,0 +1,8 @@
+# ninja log v6
+2	125	8170881872848095	SnakeGame_autogen/timestamp	ce8955e392f40c5a
+2	125	8170881872848095	SnakeGame_autogen/mocs_compilation.cpp	ce8955e392f40c5a
+2	125	8170881872848095	E:/proj gra/New folder/Two_Qt_CPP_Projects/SnakeGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SnakeGame_autogen/timestamp	ce8955e392f40c5a
+2	125	8170881872848095	E:/proj gra/New folder/Two_Qt_CPP_Projects/SnakeGame/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/SnakeGame_autogen/mocs_compilation.cpp	ce8955e392f40c5a
+126	173	8170881873268699	CMakeFiles/SnakeGame.dir/SnakeGame_autogen/mocs_compilation.cpp.obj	a85b60261246e344
+130	2194	8170881873268699	CMakeFiles/SnakeGame.dir/main.cpp.obj	b80fc81cbb53c2aa
+2196	2361	8170881893962232	SnakeGame.exe	aafede727dde933c
